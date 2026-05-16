@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.local
+reference-screenshots
+ccleaf-source.html
+ccleaf-styles.css
+ccleaf-bundle.js
+extract-strings.js
+screenshot.mjs
